@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
+  <diagram name="Página-1" id="h5hMLUg5diMZkONWdq5s">
+    <mxGraphModel dx="946" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-1" value="Início" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-3" value="Baixar o aplicativo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="250" as="targetPoint" />
+            <mxPoint x="380" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="190" />
+              <mxPoint x="360" y="220" />
+              <mxPoint x="320" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-7" target="GNhux_9Hy20Y-GQ3M5to-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-7" value="Efetuar um cadastrso" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-10" value="Criar cadastro de novo usuário&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-12" value="Cadastro existente" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-16" value="Realizar Login" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="441" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-20" value="Cadastro realizado: Realizar Login" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-22" value="Chamar um motorista" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-24" target="GNhux_9Hy20Y-GQ3M5to-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-24" value="Cadastro negado:" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNhux_9Hy20Y-GQ3M5to-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-30" value="Procurando motorista" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-32" value="Motorista localizado" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNhux_9Hy20Y-GQ3M5to-33" value="Aplicativo da Uber:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
